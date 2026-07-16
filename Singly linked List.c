@@ -32,8 +32,8 @@ void Delete(int value) {
     struct Node* prev = NULL;
 
     // If head node holds the value
-    if (temp != NULL && temp->data == value) {
-        head = temp->next;
+    if (head != NULL && head->data == value) {
+        head = head->next;
         free(temp);
         return;
     }
