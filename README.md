@@ -11,7 +11,6 @@ written mainly in **C language**.
 - Stacks & Queues  
 - Trees & Graphs  
 - Sorting & Searching  
-- Dynamic Programming  
 
 ---
 
