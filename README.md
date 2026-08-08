@@ -10,7 +10,9 @@ written mainly in **C language**.
 - Linked Lists  
 - Stacks & Queues  
 - Trees & Graphs  
-- Sorting & Searching  
+- Sorting & Searching
+- Hashing
+- 
 
 ---
 
